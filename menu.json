@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "category": "entrees",
+    "name": "Orange Chicken",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_OrangeChicken.jpg",
+    "price": 4.99
+  },
+  {
+    "id": 2,
+    "category": "entrees",
+    "name": "Grilled Teriyaki Chicken",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_TeriyakiChicken.jpg",
+    "price": 5.99
+  },
+  {
+    "id": 3,
+    "category": "entrees",
+    "name": "Honey Sesame Chicken",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_HoneySesame.jpg",
+    "price": 5.49
+  },
+  {
+    "id": 4,
+    "category": "entrees",
+    "name": "Beijing Beef",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_BeijingBeef.jpg",
+    "price": 5.99
+  },
+  {
+    "id": 5,
+    "category": "sides",
+    "name": "Chow Mein",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_ChowMein.jpg",
+    "price": 2.49
+  },
+  {
+    "id": 6,
+    "category": "sides",
+    "name": "Fried Rice",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_FriedRice.jpg",
+    "price": 2.49
+  },
+  {
+    "id": 7,
+    "category": "sides",
+    "name": "Super Greens",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_MixVeg.jpg",
+    "price": 2.49
+  },
+  {
+    "id": 8,
+    "category": "sides",
+    "name": "White Steamed Rice",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_SteamRice.jpg",
+    "price": 1.49
+  },
+  {
+    "id": 9,
+    "category": "appetizers",
+    "name": "Cream Cheese Rangoon",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_Rangoons.jpg",
+    "price": 3.99
+  },
+  {
+    "id": 10,
+    "category": "appetizers",
+    "name": "Vegetable Spring Roll",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_SpringRolls.jpg",
+    "price": 2.99
+  },
+  {
+    "id": 11,
+    "category": "appetizers",
+    "name": "Chicken Egg Roll",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_EggRolls.jpg",
+    "price": 2.99
+  },
+  {
+    "id": 12,
+    "category": "desserts",
+    "name": "Chocolate Chunk Cookie",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_ChocolateChipCookie.jpg",
+    "price": 1.49
+  },
+  {
+    "id": 13,
+    "category": "desserts",
+    "name": "Fortune Cookies (3 Pack)",
+    "url": "https://s3.amazonaws.com/PandaExpressWebsite/Responsive/img/food/thumbnails/grid_FortuneCookies.jpg",
+    "price": 0.99
+  }
+]
